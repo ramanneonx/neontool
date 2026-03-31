@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/RAMANKUMAR-NEON/neon2.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = Raman Kumar
+	email = ramankumar@example.com
